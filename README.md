@@ -3,25 +3,25 @@
 ## 常规自动安装
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/Meilinhost/LotServer_Vicer/raw/master/Install.sh) install
+bash <(wget --no-check-certificate -qO- https://github.com/foxbackup/LotServer_Vicer/raw/master/Install.sh) install
 ```
 
 ## 指定内核安装
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/Meilinhost/LotServer_Vicer/raw/master/Install.sh) install <Kernel Version>
+bash <(wget --no-check-certificate -qO- https://github.com/foxbackup/LotServer_Vicer/raw/master/Install.sh) install <Kernel Version>
 ```
 
 ## 完全卸载
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/Meilinhost/LotServer_Vicer/raw/master/Install.sh) uninstall
+bash <(wget --no-check-certificate -qO- https://github.com/foxbackup/LotServer_Vicer/raw/master/Install.sh) uninstall
 ```
 
 ## Debian / Unbuntu自动更换内核（运行后需重启）
 
 ```
-bash <(wget --no-check-certificate -qO- 'https://moeclub.org/attachment/LinuxShell/Debian_Kernel.sh')
+bash <(wget --no-check-certificate -qO- 'https://moeclub.org/foxbackup/LinuxShell/Debian_Kernel.sh')
 ```
 
 ## 调教手册
